@@ -1,5 +1,6 @@
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+  - jekyll-remote-theme
+
 title: CrochetLab
 description: A cozy crochet lab with bilingual patterns and photo tutorials.
-theme: minima
-sass:
-  style: compressed
