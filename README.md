@@ -18,9 +18,11 @@ Feel free to suggest improvements, share your own versions, or submit new patter
 
 ---
 
-## 📸 Gallery
+## 📸 Project Gallery
 
-Project photos are stored in the `images/` folder and linked inside each pattern.
+| [![Front View](images/headphone-covers-1.jpg)](patterns/headphone-covers.md) | [![Detail](images/headphone-covers-2.jpg)](patterns/headphone-covers.md) | [![Assembly](images/headphone-covers-3.jpg)](patterns/headphone-covers.md) |
+|:--:|:--:|:--:|
+| **Front View** | **Detail** | **Assembly** |
 
 ---
 
