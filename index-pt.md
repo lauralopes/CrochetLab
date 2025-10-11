@@ -1,5 +1,7 @@
 # 🧪 Bem-vinda ao CrochetLab
 
+[🇺🇸 View in English](index.md)
+
 Um cantinho acolhedor para amantes do crochê!  
 Explore receitas originais para acessórios, decoração e peças únicas — todas testadas e documentadas com fotos e passo a passo.
 
