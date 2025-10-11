@@ -6,9 +6,13 @@ Explore original patterns with step-by-step instructions and photos.
 
 ## 🎧 Headphone Covers
 
-| [![Front View](../images/headphone-covers-1.jpg)](headphone-covers.md) |
-|:--:|
-| **Headphone Covers** — Stylish and protective crochet covers for your headphones. |
+<p align="center">
+  <a href="headphone-covers.md">
+    <img src="../images/headphone-covers-1.jpg" alt="Front View" width="200"/>
+  </a>
+</p>
+
+**Headphone Covers** — Stylish and protective crochet covers for your headphones.
 
 ---
 
