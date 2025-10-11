@@ -40,7 +40,7 @@
 ## 📸 Photos
 
 ![Headphone Cover - Front](../images/headphone-covers-1.jpg)
-![Headphone Cover - Assembly](../images/headphone-covers-2.jpg)
+![Headphone Cover - Detail](../images/headphone-covers-2.jpg)
 ![Headphone Cover - Assembly](../images/headphone-covers-3.jpg)
 
 ---
