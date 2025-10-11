@@ -7,7 +7,7 @@ Explore receitas originais com passo a passo e fotos detalhadas.
 ## 🎧 Capas de Fone
 
 <p align="center">
-  <a href="capas-de-fone.md">
+  <a href="/capas-de-fone.md">
     <img src="../images/headphone-covers-1.jpg" alt="Frente" width="200"/>
   </a>
 </p>
