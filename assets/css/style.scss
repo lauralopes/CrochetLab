@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font-family: 'Georgia', serif;
+  background-color: #fffaf5;
+  color: #4b3b2a;
+}
+
+a {
+  color: #b86b77;
+}
+
+h1, h2, h3 {
+  font-family: 'Palatino Linotype', 'Book Antiqua', serif;
+  color: #7c4d3a;
+}
