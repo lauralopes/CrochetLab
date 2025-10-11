@@ -1,9 +1,9 @@
-# 🧪 Welcome to CrochetLab
+# 🧪 CrochetLab
 
 [🇧🇷 Ver em Português](index-pt.md)
 
-A cozy corner for crochet lovers!  
-Explore original patterns for accessories, home decor, and unique pieces — all tested and documented with step-by-step instructions and photos.
+A cozy corner for crochet lovers!
+Explore original patterns for accessories, amigurumi, home decor, and unique pieces with step-by-step instructions and photos.
 
 ---
 
