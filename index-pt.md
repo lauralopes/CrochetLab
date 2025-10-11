@@ -14,6 +14,10 @@ Explore receitas originais para acessórios, amigurumi, decoração e peças ún
 
 ---
 
+[🧵 Legenda](stitch-guide.md)
+
+---
+
 ## 📸 Galeria de Projetos
 
 Veja nossas criações:

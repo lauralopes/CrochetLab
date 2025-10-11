@@ -13,6 +13,10 @@ Explore original patterns for accessories, amigurumi, home decor, and unique pie
 
 ---
 
+[🧵 Stitch Guide](stitch-guide.md)
+
+---
+
 ## 📸 Project Gallery
 Take a peek at our creations:
 
